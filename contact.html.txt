@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Contact Us - IMCB G-15 College</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header>
+    <h1>IMCB G-15 College</h1>
+</header>
+
+<nav>
+    <a href="index.html">Home</a>
+    <a href="about.html">About</a>
+    <a href="faculty.html">Faculty</a>
+    <a href="contact.html">Contact</a>
+</nav>
+
+<div class="container">
+    <h2>Contact Us</h2>
+    <p>Email: info@imcb-g15.edu.pk</p>
+    <p>Phone: +92 300 1234567</p>
+    <p>Address: Street 15, G-15, Islamabad</p>
+</div>
+
+<footer>
+    © 2026 IMCB G-15 College
+</footer>
+
+</body>
+</html>

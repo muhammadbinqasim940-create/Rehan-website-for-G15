@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>About - IMCB School</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+    <h1>About IMCB School</h1>
+    <nav>
+        <a href="index.html">Home</a>
+        <a href="about.html">About</a>
+        <a href="faculty.html">Faculty</a>
+    </nav>
+</header>
+
+<section>
+    <h2>About Our School</h2>
+    <p>IMCB is one of the best educational institutions.</p>
+    <p>We focus on discipline, education and character building.</p>
+</section>
+
+<footer>
+    <p>© 2026 IMCB School</p>
+</footer>
+
+</body>
+</html>

@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>IMCB School Website</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+    <h1>IMCB School</h1>
+    <nav>
+        <a href="index.html">Home</a>
+        <a href="about.html">About</a>
+        <a href="faculty.html">Faculty</a>
+    </nav>
+</header>
+
+<section>
+    <h2>Welcome to IMCB School</h2>
+    <p>This is our official school website project.</p>
+    <p>Made by Shaheer Qasim (Class 9)</p>
+</section>
+
+<footer>
+    <p>© 2026 IMCB School | All Rights Reserved</p>
+</footer>
+
+</body>
+</html>
