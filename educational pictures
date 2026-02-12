@@ -1,0 +1,12 @@
+<div style="text-align: center; margin-top: 20px;">
+    
+    <h3>Hamara School</h3>
+    <img src="school.jpg" alt="School Building" style="width:90%; max-width:600px; border-radius: 15px; margin-bottom: 20px; border: 2px solid #003366;">
+
+    <h3>Hamari Library</h3>
+    <img src="library.jpg" alt="Library" style="width:90%; max-width:600px; border-radius: 15px; margin-bottom: 20px; border: 2px solid #003366;">
+
+    <h3>Sports Ground</h3>
+    <img src="sports.jpg" alt="Sports" style="width:90%; max-width:600px; border-radius: 15px; margin-bottom: 20px; border: 2px solid #003366;">
+
+</div>
